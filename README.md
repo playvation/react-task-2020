@@ -24,10 +24,12 @@ Implement/mock some of the features that are currently missing or broken.
 * Make post and comment upvoting possible (again, only locally)
 * Make it possible to comment using GIFs 🦄
 * Comments on how data structures/code architecture could be improved is always welcome
+* Improving the actual UI design
 * ... and more!
 
 ## What we are looking for
 
+* You showing off your strengths!
 * Demonstration of knowledge of software architecture and data structures
 * Demonstration of creating testable code
 * Demonstration of good programming/git practices
